@@ -1,5 +1,14 @@
 # 100 Days Of Code - Log
+### Day 1: March 12, 2023 
 
+**Today's Progress**: Flashcards, codewars katas, finished my final project for the FreeCodeCamp Responsive Design Certification. Will complete another chapter of 'Learn HTML/CSS' later today. 
+
+**Thoughts:** It was good to complete the first 2 FCC certifications and add them to my LinkedIn profile, this was a goal I set for myself to finish before starting the School of Code full time training.
+
+**Link to work:** [An interesting encryption challenge I did today](http://www.example.com)
+[HTML/CSS challenges and flashcards](https://learnhtmlcss.online/)
+
+<!-- 
 ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
 
@@ -28,3 +37,4 @@
 **Link(s) to work**
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
 2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+ -->
