@@ -5,7 +5,7 @@
 
 **Thoughts:** It was good to complete the first 2 FCC certifications and add them to my LinkedIn profile, this was a goal I set for myself to finish before starting the School of Code full time training.
 
-**Link to work:** [An interesting encryption challenge I did today](http://www.example.com)
+**Link to work:** [An interesting encryption challenge I did today]((https://www.codewars.com/kata/581e014b55f2c52bb00000f8)
 
 [HTML/CSS challenges and flashcards](https://learnhtmlcss.online/)
 
