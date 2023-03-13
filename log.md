@@ -12,7 +12,7 @@
 
 ### Day 2: March 13, 2023 
 
-**Today's Progress**: Great overview by the School of Code CEO, covering computational thinking, teamwork and best practices. He also shared an interesting video relating to performace and relaxation. Met some of my fellow programmers embarking on this journey. Practiced with CSS diner, revisited FCC functional programming challenges, did 3 codewars katas. Will review lashcards before calling it a day. 
+**Today's Progress**: Great overview by the School of Code CEO, covering computational thinking, teamwork and best practices. He also shared an interesting video relating to performace and relaxation. Met some of my fellow programmers embarking on this journey. Practiced with CSS diner, revisited FCC functional programming challenges, did 3 codewars katas. Will review flashcards before calling it a day. 
 
 **Thoughts:** Today really emphasised the importance of breaking problems down and looking for repeatable patterns. Also learned about the importance of sleep/exercise and enjoyed the energisers and meeting new people. 
 
