@@ -21,6 +21,17 @@
 
 [Non-sleep deep rest protocol](https://www.youtube.com/watch?v=AKGrmY8OSHM)
 
+### Day 3: March 14, 2023 
+
+**Today's Progress**: Very nice challenge to build a basic Scratch game with a partner in 90 minutes. Practiced git cloning, adding commits and pushing back to a main branch. Completed 2 chapters of 'Learn HTML/CSS'. Also did a good debugging kata that reinforced attention to detail. Ending the day with flashcards.
+
+**Thoughts:** Enjoyed the game challenge and discussions on problem solving, but it is time to get more hands on and write code in JavaScript. Also getting better at Git workflow with practice. 
+
+**Link to work:** 
+[Basic Scratch game, built with partner in under 90 minutes](https://scratch.mit.edu/projects/819146380/)
+
+[A nice debugging challenge](https://www.codewars.com/kata/56368f37d464c0a43c00007f/javascript)
+
 <!-- 
 ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
