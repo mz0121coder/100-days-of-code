@@ -32,7 +32,6 @@
 
 [A nice debugging challenge](https://www.codewars.com/kata/56368f37d464c0a43c00007f/javascript)
 
-# 100 Days Of Code - Log
 ### Day 4: March 15, 2023 
 
 **Today's Progress**: JavaScript fundamentals - variables, functions, loops. Practiced building a password checker in an enjoyable pair programming session. Energy was lower so did 2 relatively simple katas to keep the momentum going. Ended the day with flashcards from Jad Joubran's frontend courses. 
@@ -41,6 +40,12 @@
 
 **Link to work:** 
 [JavaScript challenges and flashcards](https://learnjavascript.online/)
+
+### Day 5: March 16, 2023 
+
+**Today's Progress**: There was a very informative mindset session, followed by more JavaScript fundamentals - non-primitive data types (objects), array methods, dot and bracket notation. Nested/complex arrays. Finished the day by recapping concepts with flashcards and also started a React tutorial. 
+
+**Thoughts:** Pair programming was very useful as it allowed both myself and my partner to understand the concepts better by explaining things to each other and asking questions. Looking forward to more mindset and performance psychology sessions on Thursdays. 
 
 <!-- 
 ### Day 0: February 30, 2016 (Example 1)
