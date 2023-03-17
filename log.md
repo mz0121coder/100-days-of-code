@@ -43,9 +43,15 @@
 
 ### Day 5: March 16, 2023 
 
-**Today's Progress**: There was a very informative mindset session, followed by more JavaScript fundamentals - non-primitive data types (objects), array methods, dot and bracket notation. Nested/complex arrays. Finished the day by recapping concepts with flashcards and also started a React tutorial. 
+**Today's Progress**: There was a very informative mindset session, followed by more JavaScript fundamentals - non-primitive data types (objects), array methods, dot and bracket notation. Nested/complex arrays. Finished the day by recapping concepts with flashcards and also practiced the concepts with 2 katas that involved filtering and sorting arrays in ascending and descending order. 
 
-**Thoughts:** Pair programming was very useful as it allowed both myself and my partner to understand the concepts better by explaining things to each other and asking questions. Looking forward to more mindset and performance psychology sessions on Thursdays. 
+**Thoughts:** Pair programming was very useful as it allowed both myself and my partner to understand the ideas better by explaining things to each other and asking questions. This will be a key skill in a tech role and I am grateful to be able to practice this regularly. Looking forward to more mindset and performance psychology sessions on Thursdays. 
+
+**Link to work:** 
+
+[1st kata](https://www.codewars.com/kata/56069d0c4af7f633910000d3/javascript)
+
+[Another completed kata](https://www.codewars.com/kata/580a4734d6df748060000045/javascript)
 
 <!-- 
 ### Day 0: February 30, 2016 (Example 1)
