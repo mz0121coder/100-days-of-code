@@ -59,11 +59,9 @@
 
 **Thoughts:** The highlights of the week included meeting and working with great people, practical training in problem solving from the coaches and of course today's hackathon. I am looking forward to doing more of these challenges on Fridays. 
 
-**Link to work:** 
+**Link to work:** [Today's completed hackathon](https://github.com/mz0121coder/rock-paper-scissors-hackathon)
 
-[Today's completed hackathon](https://github.com/mz0121coder/rock-paper-scissors-hackathon)
 
-[]
 
 <!-- 
 ### Day 0: February 30, 2016 (Example 1)
