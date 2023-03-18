@@ -67,7 +67,7 @@
 
 **Link to work:** [Great kata involving arrays/string methods](https://www.codewars.com/kata/599febdc3f64cd21d8000117)
 
-[Another kata where regex was very efficient](https://www.codewars.com/kata/5411c4205f3a7fd3f90009ea)
+[Another kata where regex was very useful](https://www.codewars.com/kata/5411c4205f3a7fd3f90009ea)
 <!-- 
 ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
