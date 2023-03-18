@@ -53,6 +53,18 @@
 
 [Another completed kata](https://www.codewars.com/kata/580a4734d6df748060000045/javascript)
 
+### Day 6: March 17, 2023 
+
+**Today's Progress**: Completed my first hackathon, where I coded a rock, paper, scissors game with a partner. We used regex to validate usernames, and switch statements to handle different scores based on the player's selection and randomly generated computer moves. Ended an incredible first week at the School of Code. Practiced a little CSS and reviewed flashcards. Getting some rest before reviewing JavaScript fundamentals over the weekend. 
+
+**Thoughts:** The highlights of the week included meeting and working with great people, practical training in problem solving from the coaches and of course today's hackathon. I am looking forward to doing more of these challenges on Fridays. 
+
+**Link to work:** 
+
+[Today's completed hackathon](https://github.com/mz0121coder/rock-paper-scissors-hackathon)
+
+[]
+
 <!-- 
 ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
