@@ -47,9 +47,7 @@
 
 **Thoughts:** Pair programming was very useful as it allowed both myself and my partner to understand the ideas better by explaining things to each other and asking questions. This will be a key skill in a tech role and I am grateful to be able to practice this regularly. Looking forward to more mindset and performance psychology sessions on Thursdays. 
 
-**Link to work:** 
-
-[1st kata](https://www.codewars.com/kata/56069d0c4af7f633910000d3/javascript)
+**Link to work:** [1st kata](https://www.codewars.com/kata/56069d0c4af7f633910000d3/javascript)
 
 [Another completed kata](https://www.codewars.com/kata/580a4734d6df748060000045/javascript)
 
