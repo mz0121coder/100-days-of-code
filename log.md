@@ -66,6 +66,7 @@
 **Thoughts:** While it is good to make a plan before solving a problem, sometimes taking a break can give a fresh perspective, like I saw with the challenge. 
 
 **Link to work:** [Great kata involving arrays/string methods](https://www.codewars.com/kata/599febdc3f64cd21d8000117)
+
 [Another good one from today where I used regex to solve the problem](https://www.codewars.com/kata/5411c4205f3a7fd3f90009ea)
 <!-- 
 ### Day 0: February 30, 2016 (Example 1)
