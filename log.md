@@ -72,7 +72,7 @@
 
 ### Day 8: March 19, 2023 
 
-**Today's Progress**: Recap of regex and data structures. Completed another chapter of 'Learn HTML/CSS'. Did a few katas and flashcards. Happy to solve a string expansion challenge that I was previously stuck on for a while.  
+**Today's Progress**: Recap of regex and data structures. Completed another chapter of 'Learn HTML/CSS'. Did a few katas and flashcards. Solved a string expansion challenge that I was previously stuck on for a while.  
 
 **Thoughts:** Productive weekend. Ready to go again tomorrow. 
 
