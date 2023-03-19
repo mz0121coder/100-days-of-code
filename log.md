@@ -68,6 +68,15 @@
 **Link to work:** [Interesting challenge with arrays & string methods](https://www.codewars.com/kata/599febdc3f64cd21d8000117)
 
 [Another kata where regex was very useful](https://www.codewars.com/kata/5411c4205f3a7fd3f90009ea)
+
+
+### Day 8: March 19, 2023 
+
+**Today's Progress**: Recap of regex and data structures. Completed another chapter of 'Learn HTML/CSS'. Did a few katas and flashcards. 
+**Thoughts:** Productive weekend. Ready to go again tomorrow. 
+
+**Link to work:** [Interesting kata from today](https://www.codewars.com/kata/5ae326342f8cbc72220000d2)
+
 <!-- 
 ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
