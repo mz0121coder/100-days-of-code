@@ -72,10 +72,11 @@
 
 ### Day 8: March 19, 2023 
 
-**Today's Progress**: Recap of regex and data structures. Completed another chapter of 'Learn HTML/CSS'. Did a few katas and flashcards. 
+**Today's Progress**: Recap of regex and data structures. Completed another chapter of 'Learn HTML/CSS'. Did a few katas and flashcards. Happy to solve a string expansion challenge that I was previously stuck on for a while.  
+
 **Thoughts:** Productive weekend. Ready to go again tomorrow. 
 
-**Link to work:** [Interesting kata from today](https://www.codewars.com/kata/5ae326342f8cbc72220000d2)
+**Link to work:** [String expansion kata](https://www.codewars.com/kata/5ae326342f8cbc72220000d2)
 
 <!-- 
 ### Day 0: February 30, 2016 (Example 1)
