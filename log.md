@@ -79,13 +79,21 @@
 **Link to work:** [String expansion kata](https://www.codewars.com/kata/5ae326342f8cbc72220000d2)
 
 
-### Day 9: March 19, 2023 
+### Day 9: March 20, 2023 
 
 **Today's Progress**: DOM selection and methods, practicing querySelector, appendChild, textContent, event listeners etc. Enjoyed programming with my group. Added extra functionality to a 'penny doubling' page in a workshop - toggle dark mode, hover effect and max width + text align for a more responsive layout. Flashcards and a kata in the evening.
 
 **Thoughts:** Looking forward to more DOM practice and using these techniques in projects. 
 
 **Link to work:** [Today's workshop](https://github.com/mz0121coder/bc14_w1d1_workshop_dom-102-mz0121coder)
+
+Day 9: March 19, 2023
+
+Today's Progress: More progress with the DOM. Deployed a simple rock paper scissors game, more group programming and guidance on using AI tools to increase efficiency as a developer. Had a great first meeting with my mentor and a talk from a previous SoC student. Started a food tracker project to practice the concepts further. 
+
+Thoughts: Overall a good day. 
+
+Link to work: [DOM workshop](https://github.com/mz0121coder/rps-dom-practice)
 
 <!-- 
 ### Day 0: February 30, 2016 (Example 1)
