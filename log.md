@@ -6,9 +6,9 @@
 **Thoughts:** It was good to complete the first 2 FCC certifications and add them to my LinkedIn profile, this was a goal I set for myself to finish before starting the School of Code full time training.
 
 **Link to work:** 
-[An interesting encryption challenge I did today] (https://www.codewars.com/kata/581e014b55f2c52bb00000f8)
+[An interesting encryption challenge I did today](https://www.codewars.com/kata/581e014b55f2c52bb00000f8)
 
-[HTML/CSS challenges and flashcards] (https://learnhtmlcss.online/)
+[HTML/CSS challenges and flashcards](https://learnhtmlcss.online/)
 
 ### Day 2: March 13, 2023 
 
@@ -19,7 +19,7 @@
 **Link to work:** 
 [CSS diner] (https://flukeout.github.io/)
 
-[Non-sleep deep rest protocol] (https://www.youtube.com/watch?v=AKGrmY8OSHM)
+[Non-sleep deep rest protocol](https://www.youtube.com/watch?v=AKGrmY8OSHM)
 
 ### Day 3: March 14, 2023 
 
@@ -28,9 +28,9 @@
 **Thoughts:** Enjoyed the game challenge and discussions on problem solving, but it is time to get more hands on and write code in JavaScript. Also getting better at Git workflow with practice. 
 
 **Link to work:** 
-[Basic Scratch game, built with partner in under 90 minutes] (https://scratch.mit.edu/projects/819146380/)
+[Basic Scratch game, built with partner in under 90 minutes](https://scratch.mit.edu/projects/819146380/)
 
-[A nice debugging challenge] (https://www.codewars.com/kata/56368f37d464c0a43c00007f/javascript)
+[A nice debugging challenge](https://www.codewars.com/kata/56368f37d464c0a43c00007f/javascript)
 
 ### Day 4: March 15, 2023 
 
@@ -39,7 +39,7 @@
 **Thoughts:** Enjoyed the pair programming and getting more involved with code in the browser. Despite having less energy I still did some practice and revisited the lessons in the evening. Consistency is key. 
 
 **Link to work:** 
-[JavaScript challenges and flashcards] (https://learnjavascript.online/)
+[JavaScript challenges and flashcards](https://learnjavascript.online/)
 
 ### Day 5: March 16, 2023 
 
@@ -47,9 +47,9 @@
 
 **Thoughts:** Pair programming was very useful as it allowed both myself and my partner to understand the ideas better by explaining things to each other and asking questions. This will be a key skill in a tech role and I am grateful to be able to practice this regularly. Looking forward to more mindset and performance psychology sessions on Thursdays. 
 
-**Link to work:** [1st kata] (https://www.codewars.com/kata/56069d0c4af7f633910000d3/javascript)
+**Link to work:** [1st kata](https://www.codewars.com/kata/56069d0c4af7f633910000d3/javascript)
 
-[Another completed kata] (https://www.codewars.com/kata/580a4734d6df748060000045/javascript)
+[Another completed kata](https://www.codewars.com/kata/580a4734d6df748060000045/javascript)
 
 ### Day 6: March 17, 2023 
 
@@ -57,7 +57,7 @@
 
 **Thoughts:** The highlights of the week included meeting and working with great people, practical training in problem solving from the coaches and of course today's hackathon. I am looking forward to doing more of these challenges on Fridays. 
 
-**Link to work:** [Today's completed hackathon] (https://github.com/mz0121coder/rock-paper-scissors-hackathon)
+**Link to work:** [Today's completed hackathon](https://github.com/mz0121coder/rock-paper-scissors-hackathon)
 
 ### Day 7: March 18, 2023 
 
@@ -65,9 +65,9 @@
 
 **Thoughts:** While it is good to make a plan before solving a problem, sometimes taking a break can give a fresh perspective, like I saw with the challenge. 
 
-**Link to work:** [Interesting challenge with arrays & string methods] (https://www.codewars.com/kata/599febdc3f64cd21d8000117)
+**Link to work:** [Interesting challenge with arrays & string methods](https://www.codewars.com/kata/599febdc3f64cd21d8000117)
 
-[Another kata where regex was very useful] (https://www.codewars.com/kata/5411c4205f3a7fd3f90009ea)
+[Another kata where regex was very useful](https://www.codewars.com/kata/5411c4205f3a7fd3f90009ea)
 
 
 ### Day 8: March 19, 2023 
@@ -76,7 +76,7 @@
 
 **Thoughts:** Productive weekend. Ready to go again tomorrow. 
 
-**Link to work:** [String expansion kata] (https://www.codewars.com/kata/5ae326342f8cbc72220000d2)
+**Link to work:** [String expansion kata](https://www.codewars.com/kata/5ae326342f8cbc72220000d2)
 
 
 ### Day 9: March 20, 2023 
@@ -85,7 +85,7 @@
 
 **Thoughts:** Looking forward to more DOM practice and using these techniques in projects. 
 
-**Link to work:** [Today's workshop] (https://github.com/mz0121coder/bc14_w1d1_workshop_dom-102-mz0121coder)
+**Link to work:** [Today's workshop](https://github.com/mz0121coder/bc14_w1d1_workshop_dom-102-mz0121coder)
 
 Day 10: March 21, 2023
 
@@ -93,7 +93,7 @@ Today's Progress: More progress with the DOM. Deployed a simple rock paper sciss
 
 Thoughts: Overall a good day. 
 
-Link to work: [DOM workshop] (https://github.com/mz0121coder/rps-dom-practice)
+Link to work: [DOM workshop](https://github.com/mz0121coder/rps-dom-practice)
 
 Day 11: March 22, 2023
 
@@ -101,7 +101,7 @@ Today's Progress: Async JavaScript - setTimeout, setInterval, promises and fetch
 
 Thoughts: Async can be tricky so I will keep reviewing it this week and onwards as needed. 
 
-Link to work: [Today's fetch practice] (https://github.com/mz0121coder/fetch-workshop)
+Link to work: [Today's fetch practice](https://github.com/mz0121coder/fetch-workshop)
 
 Day 12: March 23, 2023
 
@@ -109,7 +109,7 @@ Today's Progress: Morning quiz on async concepts, thursday mindset session and g
 
 Thoughts: The mindset session stressed the importance of being flexible and incorporating everyone's strengths and personalities when working as a team. This will be very useful for future projects and jobs.  
 
-Link to work: [My async clock] (https://github.com/mz0121coder/async-clock)
+Link to work: [My async clock](https://github.com/mz0121coder/async-clock)
 
 <!-- 
 ### Day 0: February 30, 2016 (Example 1)
