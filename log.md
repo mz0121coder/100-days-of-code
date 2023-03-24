@@ -105,11 +105,19 @@ Link to work: [Today's fetch practice](https://github.com/mz0121coder/fetch-work
 
 Day 12: March 23, 2023
 
-Today's Progress: Morning quiz on async concepts, thursday mindset session and guest talk from a UX/UI designer. Group research task and codewars in the evening. Also styled the javascript clock from yesterday's workshop. 
+Today's Progress: Morning quiz on async concepts, thursday mindset session and guest talk from a UX/UI designer. Group research task and codewars in the evening. Also styled the JavaScript clock from yesterday's workshop. 
 
 Thoughts: The mindset session stressed the importance of being flexible and incorporating everyone's strengths and personalities when working as a team. This will be very useful for future projects and jobs.  
 
 Link to work: [My async clock](https://github.com/mz0121coder/async-clock)
+
+Day 13: March 24, 2023
+
+Today's Progress: Friday hackathon - collaborated with 2 other developers to build a quiz game. Used a trivia API to fetch random multiple choice questions, stored the possible answers in an array and updated the displayed score and message as the user plays the game. A great way to practice everything covered in the last 2 weeks. Also given some individual tasks for the weekend which will reinforce this knowledge. 
+
+Thoughts: This week has been intense and very rewarding. I will get some rest before reviewing DOM/fetch over the weekend and completing more katas and flashcards. 
+
+Link to work: [Trivia game built in today's hackathon](https://github.com/mz0121coder/trivia-game)
 
 <!-- 
 ### Day 0: February 30, 2016 (Example 1)
