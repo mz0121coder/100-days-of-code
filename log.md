@@ -17,7 +17,7 @@
 **Thoughts:** Today really emphasised the importance of breaking problems down and looking for repeatable patterns. Also learned about the importance of sleep/exercise and enjoyed the energisers and meeting new people. 
 
 **Link to work:** 
-[CSS diner] (https://flukeout.github.io/)
+[CSS diner](https://flukeout.github.io/)
 
 [Non-sleep deep rest protocol](https://www.youtube.com/watch?v=AKGrmY8OSHM)
 
