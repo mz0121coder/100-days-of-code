@@ -87,7 +87,7 @@
 
 **Link to work:** [Today's workshop](https://github.com/mz0121coder/bc14_w1d1_workshop_dom-102-mz0121coder)
 
-Day 10: March 21, 2023
+### Day 10: March 21, 2023
 
 Today's Progress: More progress with the DOM. Deployed a simple rock paper scissors game, more group programming and guidance on using AI tools to increase efficiency as a developer. Had a great first meeting with my mentor and a talk from a previous SoC student. Started a food tracker project to practice the concepts further. 
 
@@ -95,7 +95,7 @@ Thoughts: Overall a good day.
 
 Link to work: [DOM workshop](https://github.com/mz0121coder/rps-dom-practice)
 
-Day 11: March 22, 2023
+### Day 11: March 22, 2023
 
 Today's Progress: Async JavaScript - setTimeout, setInterval, promises and fetch. Built a visual clock and cat fact generator. 
 
@@ -103,7 +103,7 @@ Thoughts: Async can be tricky so I will keep reviewing it this week and onwards 
 
 Link to work: [Today's fetch practice](https://github.com/mz0121coder/fetch-workshop)
 
-Day 12: March 23, 2023
+### Day 12: March 23, 2023
 
 Today's Progress: Morning quiz on async concepts, thursday mindset session and guest talk from a UX/UI designer. Group research task and codewars in the evening. Also styled the JavaScript clock from yesterday's workshop. 
 
@@ -111,7 +111,7 @@ Thoughts: The mindset session stressed the importance of being flexible and inco
 
 Link to work: [My async clock](https://github.com/mz0121coder/async-clock)
 
-Day 13: March 24, 2023
+### Day 13: March 24, 2023
 
 Today's Progress: Friday hackathon - collaborated with 2 other developers to build a quiz game. Used a trivia API to fetch random multiple choice questions, stored the possible answers in an array and updated the displayed score and message as the user plays the game. A great way to practice everything covered in the last 2 weeks. Also given some individual tasks for the weekend which will reinforce this knowledge. 
 
