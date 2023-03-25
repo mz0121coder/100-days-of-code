@@ -119,6 +119,14 @@ Thoughts: This week has been intense and very rewarding. I will get some rest be
 
 Link to work: [Trivia game built in today's hackathon](https://github.com/mz0121coder/trivia-game)
 
+### Day 14: March 25, 2023
+
+Today's Progress: Reviewed DOM/Async/Fetch with some weekend tasks, and completed a few katas. 
+
+Thoughts: A good day to recap things and also take some time to relax and recharge. 
+
+Link to work: [Weekend recap tasks](https://github.com/mz0121coder/todo-list-fetch-recap)
+
 <!-- 
 ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
