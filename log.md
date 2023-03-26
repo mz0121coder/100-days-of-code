@@ -127,6 +127,14 @@ Thoughts: A good day to recap things and also take some time to relax and rechar
 
 Link to work: [Weekend recap tasks](https://github.com/mz0121coder/todo-list-fetch-recap)
 
+### Day 15: March 26, 2023
+
+Today's Progress: Finished weekend tasks, codewars katas, practiced CSS ahead of UI/UX week. 
+
+Thoughts: Good weekend, ready to again tomorrow. 
+
+Link to work: [String/ASCII kata from today](https://www.codewars.com/kata/576bb3c4b1abc497ec000065)
+
 <!-- 
 ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
