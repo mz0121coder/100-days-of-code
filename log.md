@@ -142,7 +142,7 @@ Today's Progress: Introduction to UI/UX and agile software development, and a gu
 Practiced CSS flexbox and grid with 2 games. Meeting with my mentor. Flashcards and codewars. 
 
 Thoughts: Very informative talk on alternative pathways into tech, and the importance of regular testing/quality checks. 
-Also enjoyed the CSS games and guidance on breaking up projects and reviewing regularly, versus the waterfall approach. 
+Also enjoyed the CSS games and guidance on breaking up projects and reviewing at set stages, versus the waterfall approach. 
 
 Link to work: [CSS grid game](https://cssgridgarden.com/)
 
