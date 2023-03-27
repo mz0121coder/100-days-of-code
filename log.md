@@ -145,6 +145,7 @@ Thoughts: Very informative talk on alternative pathways into tech, and the impor
 Also enjoyed the CSS games and guidance on breaking up projects and reviewing regularly, versus the waterfall approach. 
 
 Link to work: [CSS grid game](https://cssgridgarden.com/)
+
 [12 principles of the agile manifesto](https://agilemanifesto.org/principles.html)
 
 <!-- 
