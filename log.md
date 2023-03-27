@@ -135,6 +135,18 @@ Thoughts: Good weekend, ready to again tomorrow.
 
 Link to work: [String/ASCII kata from today](https://www.codewars.com/kata/576bb3c4b1abc497ec000065)
 
+
+### Day 16: March 27, 2023
+
+Today's Progress: Introduction to UI/UX and agile software development, and a guest talk from SRE (site reliability engineer). 
+Practiced CSS flexbox and grid with 2 games. Meeting with my mentor. Flashcards and codewars. 
+
+Thoughts: Very informative talk on alternative pathways into tech, and the importance of regular testing/quality checks. 
+Also enjoyed the CSS games and guidance on breaking up projects and reviewing regularly, versus the waterfall approach. 
+
+Link to work: [CSS grid game](https://cssgridgarden.com/)
+[12 principles of the agile manifesto](https://agilemanifesto.org/principles.html)
+
 <!-- 
 ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
