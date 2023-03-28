@@ -148,6 +148,13 @@ Link to work: [CSS grid game](https://cssgridgarden.com/)
 
 [12 principles of the agile manifesto](https://agilemanifesto.org/principles.html)
 
+### Day 16: March 27, 2023
+
+Today's Progress: Continued UI/UX by exploring the Disney ideation approach to planning projects(dreamer, realist, critic), as well as user flows and prototype design. I am working in a group of 3 with 2 very creative people and it is going well. Attended kumospace/code club for half an hour after the day's training and spoke with an industry mentor. Did a quick round of flashcards before calling it a day. 
+
+Thoughts: A lot of new concepts covered, and also received great feedback on a few coding challenges from the code club session. 
+Link to work: [Disney ideation](https://idea-sandbox.com/blog/disney-brainstorming-method-dreamer-realist-and-spoiler/)
+
 <!-- 
 ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
