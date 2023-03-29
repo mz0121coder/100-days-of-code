@@ -156,6 +156,16 @@ Thoughts: A lot of new concepts covered, and also received great feedback on a f
 
 Link to work: [Disney ideation](https://idea-sandbox.com/blog/disney-brainstorming-method-dreamer-realist-and-spoiler/)
 
+### Day 16: March 27, 2023
+
+Today's Progress: - Used figma to experiment with wireframes with my group. Had an overview of CSS naming conventions and best practices to keep code organised, including custom properties & tools like SASS. Started a partially completed clone challenge, completed a nice kata that was suggested by a friend on the bootcamp. Practiced basic React and JSX syntax.
+
+Thoughts: Enjoying the creativity and design aspects of UI/UX week, but also missing more hands-on coding in JavaScript. 
+
+Link to work: [Today's clone challenge](https://github.com/mz0121coder/clone-a-page)
+
+[Kata from today](https://www.codewars.com/kata/5f7c38eb54307c002a2b8cc8)
+
 <!-- 
 ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
