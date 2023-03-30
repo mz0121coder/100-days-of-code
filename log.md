@@ -148,7 +148,7 @@ Link to work: [CSS grid game](https://cssgridgarden.com/)
 
 [12 principles of the agile manifesto](https://agilemanifesto.org/principles.html)
 
-### Day 17: March 27, 2023
+### Day 17: March 28, 2023
 
 Today's Progress: Continued UI/UX by exploring the Disney ideation approach to planning projects(dreamer, realist, critic), as well as user flows and prototype design. I am working in a group of 3 with 2 very creative people and it is going well. Attended kumospace/code club for half an hour after the day's training and spoke with an industry mentor. Did a quick round of flashcards before calling it a day. 
 
@@ -156,7 +156,7 @@ Thoughts: A lot of new concepts covered, and also received great feedback on a f
 
 Link to work: [Disney ideation](https://idea-sandbox.com/blog/disney-brainstorming-method-dreamer-realist-and-spoiler/)
 
-### Day 18: March 27, 2023
+### Day 18: March 29, 2023
 
 Today's Progress: - Used figma to experiment with wireframes with my group. Had an overview of CSS naming conventions and best practices to keep code organised, including custom properties & tools like SASS. Started a partially completed clone challenge, completed a nice kata that was suggested by a friend on the bootcamp. Practiced basic React and JSX syntax.
 
@@ -165,6 +165,14 @@ Thoughts: Enjoying the creativity and design aspects of UI/UX week, but also mis
 Link to work: [Today's clone challenge](https://github.com/mz0121coder/clone-a-page)
 
 [Kata from today](https://www.codewars.com/kata/5f7c38eb54307c002a2b8cc8)
+
+### Day 19: March 30, 2023
+
+Today's Progress: - Thursday mindset session and a great guest talk from a very experienced engineer and a UI/UX designer at the same company. Afternoon design challenge (wireframe for a recipe app), research task and presentation, all completed with a group of 6. Continued practicing React basics in the evening. Might complete a kata or 2 before end of day. 
+
+Thoughts: Awesome advice and insights from both guest speakers as well as the mindset talk. Enjoyed the group tasks. 
+
+Link to work: [Today's design challenge](https://uxtools.co/challenges/design-system/)
 
 <!-- 
 ### Day 0: February 30, 2016 (Example 1)
