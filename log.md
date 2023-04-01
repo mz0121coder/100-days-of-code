@@ -174,6 +174,14 @@ Thoughts: Awesome advice and insights from both guest speakers as well as the mi
 
 Link to work: [Today's design challenge](https://uxtools.co/challenges/design-system/)
 
+### Day 20: March 31, 2023
+
+Today's Progress: - UI/UX hackathon - it was good to bring the user persona and wireframes to life in a few hours. CSS flashcards and recap in the evening. 
+
+Thoughts: This was a good week but I'm also looking forward to more JavaScript. 
+
+Link to work: [Friday hackathon](https://github.com/mz0121coder/UI-UX-hackathon)
+
 <!-- 
 ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
