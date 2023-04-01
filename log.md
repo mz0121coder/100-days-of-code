@@ -182,6 +182,14 @@ Thoughts: This was a good week but I'm also looking forward to more JavaScript.
 
 Link to work: [Friday hackathon](https://github.com/mz0121coder/UI-UX-hackathon)
 
+### Day 21: March 31, 2023
+
+Today's Progress: - Practiced writing out simple React component functions, completed a few katas and reviewed flashcards. 
+
+Thoughts: Enjoying the React practice, it is going smoothly as I took time to learn JavaScript fundamentals first. 
+
+Link to work: [React challenges and flashcards](https://react-tutorial.app/)
+
 <!-- 
 ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
