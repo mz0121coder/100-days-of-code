@@ -190,6 +190,14 @@ Thoughts: Enjoying the React practice, it is going smoothly as I took time to le
 
 Link to work: [React challenges and flashcards](https://react-tutorial.app/)
 
+### Day 22: April 2, 2023
+
+Today's Progress: - Completed weekend tasks which included making a draft wireframe/design for my portfolio, which I will be building soon, and reading up on best practices for writing clean & organised code. Also spent time outside and practiced conditional rendering and useState. 
+
+Thoughts: Recharged and ready to go again tomorrow. 
+
+Link to work: [React challenges and flashcards](https://react-tutorial.app/)
+
 <!-- 
 ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
