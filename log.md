@@ -198,6 +198,14 @@ Thoughts: Recharged and ready to go again tomorrow.
 
 Link to work: [React challenges and flashcards](https://react-tutorial.app/)
 
+### Day 23: April 3, 2023
+
+Today's Progress: - Great industry talk from 2 engineers at Talis - covering teamwork, software testing and a range of advice. Focusing on server side JavaScript this week, with an introductory node workshop. Reviewed immutability and did more React practice in the evening.  
+
+Thoughts: A very informative guest talk and enjoyed the focus on backend JS. 
+
+Link to work: [Today's workshop](https://github.com/mz0121coder/node-intro-workshop)
+
 <!-- 
 ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
