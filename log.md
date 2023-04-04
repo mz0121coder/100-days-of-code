@@ -206,6 +206,14 @@ Thoughts: A very informative guest talk and enjoyed the focus on backend JS.
 
 Link to work: [Today's workshop](https://github.com/mz0121coder/node-intro-workshop)
 
+### Day 24: April 4, 2023
+
+Today's Progress: - Overview of code testing hierarchy (unit tests, integration tests, UI & acceptance tests) and benefits. Jest workshop where I worked in a group of 3 to check various functions were running as expected with different inputs. Also practiced React forms and event handlers. 
+
+Thoughts: Enjoying the testing and attention to detail/debugging + soft skills developed through these workshops. 
+
+Link to work: [Jest workshop](https://github.com/mz0121coder/jest-workshop)
+
 <!-- 
 ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
