@@ -214,6 +214,14 @@ Thoughts: Enjoying the testing and attention to detail/debugging + soft skills d
 
 Link to work: [Jest workshop](https://github.com/mz0121coder/jest-workshop)
 
+### Day 25: April 5, 2023
+
+Today's Progress: - Workshop on end-to-end testing with Playwright. Meeting with my mentor. Codewars and flashcards. 
+
+Thoughts: It was challenging to use Playwright for the first time. Started to understand it more by looking at sample tests and reading the docs. 
+
+Link to work: [Playwright workshop](https://github.com/mz0121coder/end-to-end-testing)
+
 <!-- 
 ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
