@@ -222,6 +222,14 @@ Thoughts: It was challenging to use Playwright for the first time. Started to un
 
 Link to work: [Playwright workshop](https://github.com/mz0121coder/end-to-end-testing)
 
+### Day 26: April 6, 2023
+
+Today's Progress: - Enjoyed working with my group to write and pass more tests in today's hackathon. Also had a mindset session and LinkedIn/networking talk. 
+
+Thoughts: Overall a very challenging week, working with my group made it fun. Taking a break before starting recap tasks and practicing more React/CSS. 
+
+Link to work: [Today's hackathon](https://github.com/mz0121coder/testing-hackathon)
+
 <!-- 
 ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
