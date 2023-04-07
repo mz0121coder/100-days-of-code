@@ -230,6 +230,12 @@ Thoughts: Overall a very challenging week, working with my group made it fun. Ta
 
 Link to work: [Today's hackathon](https://github.com/mz0121coder/testing-hackathon)
 
+### Day 27: April 7, 2023
+
+Today's Progress: - A nice & sunny day on a bank holiday. Spent time outdoors and also practiced more React/JSX syntax. Reviewed some CSS and flashcards.
+
+<!-- Thoughts: A nice day to relax and also practice React ahead of next week.   -->
+
 <!-- 
 ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
