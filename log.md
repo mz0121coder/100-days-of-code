@@ -234,6 +234,12 @@ Link to work: [Today's hackathon](https://github.com/mz0121coder/testing-hackath
 
 Today's Progress: - A nice & sunny day on a bank holiday. Spent time outdoors and also practiced more React/JSX syntax. Reviewed some CSS and flashcards.
 
+### Day 28: April 8, 2023
+
+Today's Progress: - Week 4 recap tasks - more playwright testing like Thursday's hackathon. Wrote a codewars style encryption challenge and used jest to run the tests. Also tried a few katas from other groups and continued learning react. 
+
+Link to work: [Week 4 recap tasks](https://github.com/mz0121coder/week-4-testing-recap)
+
 <!-- Thoughts: A nice day to relax and also practice React ahead of next week.   -->
 
 <!-- 
