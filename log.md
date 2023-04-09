@@ -240,7 +240,13 @@ Today's Progress: - Week 4 recap tasks - more playwright testing like Thursday's
 
 Link to work: [Week 4 recap tasks](https://github.com/mz0121coder/week-4-testing-recap)
 
-<!-- Thoughts: A nice day to relax and also practice React ahead of next week.   -->
+### Day 29: April 9, 2023
+
+Today's Progress: - Finished weekend recap tasks and practiced more React - functional state changes and useEffect basics. Reviewed a lot of flashcards to go over fundamental concepts covered so far, such as React DOM, JSX, component functions and useState. 
+
+Link to work: [My codewars style kata](https://github.com/mz0121coder/make-your-own-kata)
+
+Thoughts: It was interesting to write my own challenge after having completed around 250 of them in the last 3 months. Also getting more familiar with the basic React/JSX syntax. 
 
 <!-- 
 ### Day 0: February 30, 2016 (Example 1)
