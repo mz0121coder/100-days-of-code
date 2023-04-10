@@ -248,6 +248,14 @@ Thoughts: It was interesting to write my own challenge. Also getting more famili
 
 Link to work: [My codewars style kata](https://github.com/mz0121coder/make-your-own-kata)
 
+### Day 30: April 10, 2023
+
+Today's Progress: - Completed a few katas and reviewed React and javascript notes. 
+
+Thoughts: Enjoyed the long weekend, did some recap & ready to go again tomorrow. 
+
+<!-- Link to work: [My codewars style kata](https://github.com/mz0121coder/make-your-own-kata) -->
+
 <!-- 
 ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
