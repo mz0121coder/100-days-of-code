@@ -250,6 +250,12 @@ Link to work: [My codewars style kata](https://github.com/mz0121coder/make-your-
 
 ### Day 30: April 10, 2023
 
+Today's Progress: - Completed a few katas and reviewed React/JavaScript notes and flashcards. 
+
+Thoughts: Enjoyed the long weekend, did some recap and ready to go again tomorrow. 
+
+### Day 31: April 11, 2023
+
 Today's Progress: - Overview of React virtual DOM, JSX, props and component functions with 2 workshops. Some familiarity with the things I have been practicing from Jad Joubran's course. Had a mock/practice interview to assess my progress in week 5. 
 
 Thoughts: Great day, a lot covered and some rest needed. 
