@@ -262,6 +262,22 @@ Thoughts: Great day, a lot covered and some rest needed.
 
 Link to work: [Component workshop from today](https://github.com/mz0121coder/react-components-workshop)
 
+### Day 32: April 12, 2023
+
+Today's Progress: - Continued learning React with a focus on passing props between components. Attended a virtual classroom afterwards to recap some of the concepts, and had some help from my mentor later. 
+
+Thoughts: Busy day, some rest needed now. 
+
+Link to work: [useState continued(https://github.com/mz0121coder/usestate-part-2)
+
+### Day 33: April 13, 2023
+
+Today's Progress: - Workshop on immutable array methods, spread operator and preventing side effects in larger projects. Mindset session and virtual classroom. Rendered sample posts on a simple blog. 
+
+Thoughts: One of the most intense and non-stop days. Repetition is key to drilling these concepts. Back at it tomorrow with the hackathon. 
+
+Link to work: [React lists and keys](https://github.com/mz0121coder/react-lists-and-keys)
+
 <!-- 
 ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
