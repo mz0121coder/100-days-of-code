@@ -268,7 +268,7 @@ Today's Progress: - Continued learning React with a focus on passing props betwe
 
 Thoughts: Busy day, some rest needed now. 
 
-Link to work: [useState continued(https://github.com/mz0121coder/usestate-part-2)
+Link to work: [useState continued](https://github.com/mz0121coder/usestate-part-2)
 
 ### Day 33: April 13, 2023
 
