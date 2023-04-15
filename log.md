@@ -278,6 +278,14 @@ Thoughts: One of the most intense and non-stop days. Repetition is key to drilli
 
 Link to work: [React lists and keys](https://github.com/mz0121coder/react-lists-and-keys)
 
+### Day 34: April 14, 2023
+
+Today's Progress: - React hackathon: made a trippy to do list with functionality to add, delete, and clear the list as well as move items up or down. Added some keyframes and animations, used flexbox for the buttons and media queries. 
+
+Thoughts: Enjoyed this project, also a great week learning react fundamentals and working with 2 awesome people. 
+
+Link to work: [Friday hackathon](https://github.com/mz0121coder/cool-task-list)
+
 <!-- 
 ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
