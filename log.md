@@ -286,6 +286,11 @@ Thoughts: Enjoyed this project, also a great week learning react fundamentals an
 
 Link to work: [Friday hackathon](https://github.com/mz0121coder/cool-task-list)
 
+### Day 35: April 15, 2023
+
+Today's Progress: - Started weekend recap task and read React documentation. Reviewed flashcards for topics covered recently. Also spent time outdoors and relaxed.
+
+
 <!-- 
 ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
