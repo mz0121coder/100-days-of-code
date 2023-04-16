@@ -290,6 +290,13 @@ Link to work: [Friday hackathon](https://github.com/mz0121coder/cool-task-list)
 
 Today's Progress: - Started weekend recap task and read React documentation. Reviewed flashcards for topics covered recently. Also spent time outdoors and relaxed.
 
+### Day 36: April 16, 2023
+
+Today's Progress: - (Mostly) finished the weekend recap tasks, went over react notes and flashcards. Might do 1 or 2 katas before calling it a day. 
+
+Thoughts: Rested and ready to go again tomorrow. 
+
+Link to work: [Week 5 recap](https://github.com/mz0121coder/week-5-recap)
 
 <!-- 
 ### Day 0: February 30, 2016 (Example 1)
