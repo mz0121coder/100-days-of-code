@@ -298,6 +298,14 @@ Thoughts: Rested and ready to go again tomorrow.
 
 Link to work: [Week 5 recap](https://github.com/mz0121coder/week-5-recap)
 
+### Day 37: April 17, 2023
+
+Today's Progress: - Guest talk from a UX designer, followed by a useEffect workshop where I made a random pokemon generator, fetching data from an API. Tried to do the same with a star wars API, which was less interesting as the API didn't have images included in the responses. 
+
+Thoughts: Getting more familiar with the foundations of react, especially useState, useEffect and components. 
+
+Link to work: [useEffect workshop/Pokemon viewer](https://github.com/mz0121coder/pokemon-viewer)
+
 <!-- 
 ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
