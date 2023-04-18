@@ -306,6 +306,10 @@ Thoughts: Getting more familiar with the foundations of react, especially useSta
 
 Link to work: [useEffect workshop/Pokemon viewer](https://github.com/mz0121coder/pokemon-viewer)
 
+### Day 38: April 18, 2023
+
+Today's Progress: - Group workshop on the useReducer hook. Virtual classroom to recap the day's concepts/tasks. Also did some katas and followed up with React flashcards. 
+
 <!-- 
 ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
