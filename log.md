@@ -310,6 +310,10 @@ Link to work: [useEffect workshop/Pokemon viewer](https://github.com/mz0121coder
 
 Today's Progress: - Group workshop on the useReducer hook. Virtual classroom to recap the day's concepts/tasks. Also did some katas and followed up with React flashcards. 
 
+### Day 39: April 19, 2023
+
+Today's Progress: - Practiced git branching, handling merge conflicts and pull requests. Had a group workshop on testing in React. Also did a few katas in the evening.
+
 <!-- 
 ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
