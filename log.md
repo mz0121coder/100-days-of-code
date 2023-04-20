@@ -314,6 +314,9 @@ Today's Progress: - Group workshop on the useReducer hook. Virtual classroom to 
 
 Today's Progress: - Practiced git branching, handling merge conflicts and pull requests. Had a group workshop on testing in React. Also did a few katas in the evening.
 
+### Day 40: April 20, 2023
+
+Today's Progress: - Thursday mindset session and review of agile methodologies & tools to prepare for an upcoming 1 week sprint. Briefly revisited the react testing workshop from earlier this week. Did a few katas and reviewed flashcards. 
 <!-- 
 ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
