@@ -317,6 +317,14 @@ Today's Progress: - Practiced git branching, handling merge conflicts and pull r
 ### Day 40: April 20, 2023
 
 Today's Progress: - Thursday mindset session and review of agile methodologies & tools to prepare for an upcoming 1 week sprint. Briefly revisited the react testing workshop from earlier this week. Did a few katas and reviewed flashcards. 
+
+### Day 41: April 21, 2023
+
+Today's Progress: - Another React hackaton - my team & I decided to use the pokemon API again, this time to build a library to search and view details for specific pokemon. The initial planning involved creating a user story, wireframe and component tree. We successfully fetched the data and completed our MVP, with some time to style the app before presenting our work. 
+
+Thoughts: A great day and enjoyable week working with Jakir and Naomi. Will be relaxing for Eid and also recapping react & agile principles ahead of the 1 week sprint. 
+
+Link to work: [Pokemon library built in today's hackathon](https://github.com/mz0121coder/pokemon-library)
 <!-- 
 ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
