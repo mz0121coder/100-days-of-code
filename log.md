@@ -330,13 +330,19 @@ Link to work: [Pokemon library built in today's hackathon](https://github.com/mz
 
 Today's Progress: - Did a few katas and flashcards, spent most of the day enjoying Eid. 
 
-### Day 41: April 21, 2023
+### Day 41: April 23, 2023
 
 Today's Progress: - Reviewed useEffect and setTimeout. More codewars and also explored Trello as a project management tool.
 
 Thoughts: Looking forward to the upcoming sprint. 
 
 Link to work: [Interesting kata from today](https://www.codewars.com/kata/58feb7ac627d2fdadf000111)
+
+### Day 42: April 24, 2023
+
+Today's Progress: - Day 1 of frontend project week. Met my group and made a team manifesto outlining how we will work and support each other. Created a user story, MVP, basic wireframes and task list for the next few days.
+
+Thoughts: Good start to the week, enjoyed the planning and ideas from the team.
 
 <!-- 
 ### Day 0: February 30, 2016 (Example 1)
