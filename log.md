@@ -348,9 +348,13 @@ Thoughts: Good start to the week, enjoyed the planning and ideas from the team.
 
 Today's Progress: - Making progress towards the MVP for our group project. Learning more about React and agile methodologies along the way. 
 
-### Day 45: April 25, 2023
+### Day 46: April 26, 2023
 
 Today's Progress: - MVP mostly done for the project, had some help from my mentor and looked at a stretch goal with the group.
+
+### Day 47: April 27, 2023
+
+Today's Progress: - Added finishing touches to the app & had a great experience working with my team. Used new tools (vite and storyset), also learnt about react-router. Looking forward to the presentation.
 
 <!-- 
 ### Day 0: February 30, 2016 (Example 1)
