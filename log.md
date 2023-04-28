@@ -356,6 +356,14 @@ Today's Progress: - MVP mostly done for the project, had some help from my mento
 
 Today's Progress: - Added finishing touches to the app & had a great experience working with my team. Used new tools (vite and storyset), also learnt about react-router. Looking forward to the presentation.
 
+### Day 48: April 28, 2023
+
+Today's Progress: - Finished the 5 day sprint by presenting to an industry panel with my team. Built a flashcards app in a team of 4, with study music, custom logos, responsive design and good accessibility scores. 
+
+Thoughts: Learned a lot & enjoyed the week. 
+
+Link to work: [Group project](https://github.com/mz0121coder/sorcerers-of-code)
+
 <!-- 
 ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
