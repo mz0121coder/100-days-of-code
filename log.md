@@ -354,7 +354,7 @@ Today's Progress: - MVP mostly done for the project, had some help from my mento
 
 ### Day 47: April 27, 2023
 
-Today's Progress: - Added finishing touches to the app & had a great experience working with my team. Used new tools (vite and storyset), also learnt about react-router. Looking forward to the presentation.
+Today's Progress: - Added finishing touches to the app & had a great experience working with my team. Used new tools (vite and storyset), also learned about react-router. Looking forward to the presentation.
 
 ### Day 48: April 28, 2023
 
@@ -363,6 +363,11 @@ Today's Progress: - Finished the 5 day sprint by presenting to an industry panel
 Thoughts: Learned a lot & enjoyed the week. 
 
 Link to work: [Group project](https://github.com/mz0121coder/sorcerers-of-code)
+
+
+### Day 49-51: April 29 - May 1st, 2023. 
+
+I am using this time to review React fundamentals and practice codewars. Also enjoying the UK bank holiday and might start building my portfolio page. 
 
 <!-- 
 ### Day 0: February 30, 2016 (Example 1)
