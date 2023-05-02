@@ -369,6 +369,14 @@ Link to work: [Group project](https://github.com/mz0121coder/sorcerers-of-code)
 
 I am using this time to review React fundamentals and practice codewars. Also enjoying the UK bank holiday and might start building my portfolio page. 
 
+### Day 52: May 2nd, 2023. 
+
+Today's Progress: - Retros & open reflections on last week's sprint with my team. We mapped out what we did well and potential improvements to keep in mind for future projects. There was an an opportunity for self-directed learning in the afternoon. I used this time to revisit a testing workshop and do a few katas. 
+
+Thoughts: The retros were very useful and provided a transparent, strucured way to assess what went well and what can be done differently. It was also great to get feedback from a few industry professionals who watched our presentation on Friday. 
+
+Link to work: [A good kata from today](https://www.codewars.com/kata/550f22f4d758534c1100025a)
+
 <!-- 
 ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
