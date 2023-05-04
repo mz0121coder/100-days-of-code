@@ -377,6 +377,10 @@ Thoughts: The retros were very useful and provided a transparent, strucured way 
 
 Link to work: [A good kata from today](https://www.codewars.com/kata/550f22f4d758534c1100025a)
 
+### Day 53-54: May 3 - May 4th, 2023
+
+Received very practical advice on careers/networking that I am putting into practice. Continued the open learning by practicing CSS and starting a frontend challenge. Had a great meeting with my mentor. Also completed more katas and flashcards.
+
 <!-- 
 ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
