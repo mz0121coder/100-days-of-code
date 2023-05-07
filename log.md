@@ -381,6 +381,19 @@ Link to work: [A good kata from today](https://www.codewars.com/kata/550f22f4d75
 
 Received very practical advice on careers/networking that I am putting into practice. Continued the open learning by practicing CSS and starting a frontend challenge. Had a great meeting with my mentor. Also completed more katas and flashcards.
 
+
+### Day 55: May 5nd, 2023. 
+
+Today's Progress: - Hackathon day - used a fake store API to display and search for products. My team also managed to toggle night mode with useEffect and classes. 
+
+Thoughts: Enjoyed the hackathon and solidified my understanding of React components, passing props, lifting state and the importance of commenting/organising code for readability. 
+
+Link to work: [Today's hackathon](https://github.com/mz0121coder/week-8-frontend-hackathon)
+
+### Day 56-58: May 6 - May 8th, 2023. 
+
+Using the weekend & bank holiday to rest and spend time outdoors as I was burnt out last week. Also reviewing my notes on React and CSS. Continuing to practice with codewars & flashcards.
+
 <!-- 
 ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
