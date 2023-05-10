@@ -407,8 +407,9 @@ Completed a group workshop where we practiced the following:
 - Creating GET, POST, PATCH, and DELETE route handlers to perform different actions on API data 
 - Refactoring code as necessary and re-testing routes using Thunderclient/Postman 
 
-Also received further guidance in the after hours kumospace. I am enjoying this week a lot. 
+Also received further guidance in the after hours kumospace. I am enjoying this week very much. 
 
+Link to work: [FS modules workshop](https://github.com/mz0121coder/fs-modules-workshop)
 Link to work: [Building a REST API workshop](https://github.com/mz0121coder/building-rest-api-workshop)
 
 <!-- 
