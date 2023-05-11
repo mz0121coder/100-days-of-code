@@ -410,7 +410,14 @@ Completed a group workshop where we practiced the following:
 Also received further guidance in the after hours kumospace. I am enjoying this week very much. 
 
 Link to work: [FS modules workshop](https://github.com/mz0121coder/fs-modules-workshop)
+
 Link to work: [Building a REST API workshop](https://github.com/mz0121coder/building-rest-api-workshop)
+
+### Day 63: May 12nd, 2023. 
+
+Today's Progress: - Overview of REST APIs, had a guest talk from Nadeem & Ely at Talis on this topic. Continued yesterday's group workshop by implementing basic middleware. I will probably review notes & react flashcards later in the day. 
+
+Thoughts: It will take some time for the new concepts to sink in but I'm looking forward to the hackathon tomorrow, it will be a good way to practice. 
 
 <!-- 
 ### Day 0: February 30, 2016 (Example 1)
