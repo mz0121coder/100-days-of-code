@@ -421,7 +421,7 @@ Thoughts: It will take some time for the new concepts to sink in but I'm looking
 
 ### Day 63: May 12th, 2023. 
 
-Today's Progress: - Repitition of this week's concepts in the Friday hackathon, where my group & I built the backend for a recipes app. 
+Today's Progress: - Reinforcement of this week's concepts in the Friday hackathon, where my group & I built the backend for a recipes app. 
 
 These were the main objectives, which we mostly managed to complete: 
 
