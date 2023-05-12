@@ -419,7 +419,7 @@ Today's Progress: - Overview of REST APIs, had a guest talk from Nadeem & Ely at
 
 Thoughts: It will take some time for the new concepts to sink in but I'm looking forward to the hackathon tomorrow, it will be a good way to practice. 
 
-### Day 63: May 12th, 2023. 
+### Day 64: May 12th, 2023. 
 
 Today's Progress: - Reinforcement of this week's concepts in the Friday hackathon, where my group & I built the backend for a recipes app. 
 
