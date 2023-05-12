@@ -435,6 +435,8 @@ We worked at a steady pace and added comments to the main JS file for the fronte
 
 Thoughts: A great week and fantastic team work throughout this hackathon and the workshops. The habit of regularly commenting & organising code is paying off, especially as we work on more complex projects. 
 
+Link to work: [Rest API Hackathon](https://github.com/mz0121coder/rest-api-hackathon)
+
 <!-- 
 ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
