@@ -394,18 +394,18 @@ Link to work: [Today's hackathon](https://github.com/mz0121coder/week-8-frontend
 
 Using the weekend & bank holiday to rest and spend time outdoors as I was burnt out last week. Also reviewing my notes on React and CSS. Continuing to practice with codewars & flashcards.
 
-### Day 59-62: May 9 - May 11th, 2023. 
+### Day 59-62: May 9 - May 10th, 2023. 
 
 A very intense deep dive into server side programming. Also had an industry guest talk. 
 
 Completed a group workshop where we practiced the following:
 
-- Building a REST API using Node.js and Express 
-- Creating API endpoints allowing the user to create, read, update, and delete a resource 
-- Using Thunderclient/Postman to make HTTP requests to test API endpoints 
-- The basics of HTTP requests and sending responses with Express 
-- Creating GET, POST, PATCH, and DELETE route handlers to perform different actions on API data 
-- Refactoring code as necessary and re-testing routes using Thunderclient/Postman 
+- Building a REST API using Node.js and Express ✅
+- Creating API endpoints allowing the user to create, read, update, and delete a resource ✅
+- Using Thunderclient/Postman to make HTTP requests to test API endpoints ✅
+- The basics of HTTP requests and sending responses with Express ✅
+- Creating GET, POST, PATCH, and DELETE route handlers to perform different actions on API data ✅
+- Refactoring code as necessary and re-testing routes using Thunderclient/Postman ✅
 
 Also received further guidance in the after hours kumospace. I am enjoying this week very much. 
 
@@ -413,11 +413,27 @@ Link to work: [FS modules workshop](https://github.com/mz0121coder/fs-modules-wo
 
 Link to work: [Building a REST API workshop](https://github.com/mz0121coder/building-rest-api-workshop)
 
-### Day 63: May 12nd, 2023. 
+### Day 63: May 11th, 2023. 
 
 Today's Progress: - Overview of REST APIs, had a guest talk from Nadeem & Ely at Talis on this topic. Continued yesterday's group workshop by implementing basic middleware. I will probably review notes & react flashcards later in the day. 
 
 Thoughts: It will take some time for the new concepts to sink in but I'm looking forward to the hackathon tomorrow, it will be a good way to practice. 
+
+### Day 63: May 12th, 2023. 
+
+Today's Progress: - Repitition of this week's concepts in the Friday hackathon, where my group & I built the backend for a recipes app. 
+
+These were the main objectives, which we mostly managed to complete: 
+
+- Build a back end server for an application that includes CRUD functionality for a recipe collection ✅
+- Populate and test the routes for the API endpoints using the requirements table ✅
+- Create and export functions in recipes.js file to interact with the recipe collection ✅
+- Hook up the helper functions to the API endpoints in app.js file and ensure the responses include an expected payload key ✅
+- Optional bonus challenges include joining up to the front end ✅ with fetch requests and adding middleware to the app (in progress)
+
+We worked at a steady pace and added comments to the main JS file for the frontend which included several event listeners and callback functions. I also refactored some of this code to follow the DRY principle and be more concise. I might revisit this on the weekend to polish the app further and incorporate middleware. 
+
+Thoughts: A great week and fantastic team work throughout this hackathon and the workshops. The habit of regularly commenting & organising code is paying off, especially as we work on more complex projects. 
 
 <!-- 
 ### Day 0: February 30, 2016 (Example 1)
