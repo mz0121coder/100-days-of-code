@@ -364,7 +364,6 @@ Thoughts: Learned a lot & enjoyed the week.
 
 Link to work: [Group project](https://github.com/mz0121coder/sorcerers-of-code)
 
-
 ### Day 49-51: April 29 - May 1st, 2023. 
 
 I am using this time to review React fundamentals and practice codewars. Also enjoying the UK bank holiday and might start building my portfolio page. 
@@ -380,7 +379,6 @@ Link to work: [A good kata from today](https://www.codewars.com/kata/550f22f4d75
 ### Day 53-54: May 3 - May 4th, 2023
 
 Received very practical advice on careers/networking that I am putting into practice. Continued the open learning by practicing CSS and starting a frontend challenge. Had a great meeting with my mentor. Also completed more katas and flashcards.
-
 
 ### Day 55: May 5nd, 2023. 
 
@@ -431,9 +429,9 @@ These were the main objectives, which we mostly managed to complete:
 - Hook up the helper functions to the API endpoints in app.js file and ensure the responses include an expected payload key ✅
 - Optional bonus challenges include joining up to the front end ✅ with fetch requests and adding middleware to the app (in progress)
 
-We worked at a steady pace and added comments to the main JS file for the frontend which included several event listeners and callback functions. I also refactored some of this code to follow the DRY principle and be more concise. I might revisit this on the weekend to polish the app further and incorporate middleware. 
+We worked at a steady pace and added comments to the main JS file for the frontend which included several event listeners and callback functions. I also refactored code to follow the DRY principle and be more concise. I might revisit this on the weekend to polish the app further and incorporate middleware. 
 
-Thoughts: A great week and fantastic team work throughout this hackathon and the workshops. The habit of regularly commenting & organising code is paying off, especially as we work on more complex projects. 
+Thoughts: A great week and fantastic team work. The habit of regularly commenting & organising code is paying off, especially as we work on more complex projects. 
 
 Link to work: [Rest API Hackathon](https://github.com/mz0121coder/rest-api-hackathon)
 
