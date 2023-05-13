@@ -435,6 +435,14 @@ We worked at a steady pace and added comments to the main JS file for the fronte
 
 Link to work: [Rest API Hackathon](https://github.com/mz0121coder/rest-api-hackathon)
 
+### Day 65: May 13th, 2023. 
+
+**Today's Progress:** - Refactored some of the code from project week. Created a data folder to store the arrays of questions (used for the flashcards). Cleaned up the CSS files and deployed to Netlify. Also changed the image used for the main heading animation. Solved a 4 kyu kata (only did this once before). 
+
+**Thoughts:** - Keeping the code relatively organised in the project week was very useful, now that I revisited it 2-3 weeks later, I could look back at the main sections and find what I needed to change very easily. Going back to the backend tomorrow for this week's recap task. 
+
+Link to work: [4kyu kata from today](https://www.codewars.com/kata/51e056fe544cf36c410000fb)
+
 <!-- 
 ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
