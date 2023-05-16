@@ -443,13 +443,23 @@ Link to work: [Rest API Hackathon](https://github.com/mz0121coder/rest-api-hacka
 
 Link to work: [4kyu kata from today](https://www.codewars.com/kata/51e056fe544cf36c410000fb)
 
-### Day 65: May 14-15th, 2023. 
+### Day 66-67: May 14-15th, 2023. 
 
 Completed the main challenges from the weekend recap task, which was also centered around building a REST API, similar to the hackathon. The next day, I started covering relational databases (SQL) and used an online resource to practice. After this, I had a great meeting with my mentor. Then went for a walk to clear my head and relax. 
 
 Link to work: [REST API recap task](https://github.com/mz0121coder/week-9-recap)
 
-Link to work: [SQL Bolt](https://www.codewars.com/kata/51e056fe544cf36c410000fb)
+[SQL Bolt](https://sqlbolt.com/)
+
+### Day 68: May 16th, 2023. 
+
+**Today's Progress:** - Completed a few more SQL exercises, focusing on subqueries and joins. Completed a few katas and started using Algo Expert to prepare for technical interviews. 
+
+**Thoughts:** - I need more practice before I will be more confident with relational databases. However I am also looking forward to incorporating them in projects. 
+
+Link to work: [SQL Joins & Subqueries](https://pgexercises.com/questions/joins/)
+
+[Algo Expert](https://www.algoexpert.io/product)
 
 <!-- 
 ### Day 0: February 30, 2016 (Example 1)
