@@ -461,6 +461,14 @@ Link to work: [SQL Joins & Subqueries](https://pgexercises.com/questions/joins/)
 
 [Algo Expert](https://www.algoexpert.io/product)
 
+### Day 69-73: May 17-21st, 2023. 
+
+- Guest talk and PostgresSQL workshop (thursday)
+- Full day workshop run by engineers from Couchbase, using their technology (friday)
+- Weekend: working on hackathon projects, algo expert challenges and CV/portfolio. 
+
+Link to work: [PostgresSQL workshop](https://github.com/mz0121coder/postgres-sql-workshop)
+
 <!-- 
 ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
