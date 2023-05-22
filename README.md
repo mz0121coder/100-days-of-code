@@ -469,6 +469,68 @@ Link to work: [SQL Joins & Subqueries](https://pgexercises.com/questions/joins/)
 
 Link to work: [PostgresSQL workshop](https://github.com/mz0121coder/postgres-sql-workshop)
 
+### Day 74: May 22, 2023.
+
+Reviewed flashcards for HTML, CSS, JavaScript and React. Started the new week with an overview of authentication, industry guest talk and a workshop later in the day. 
+
+Notes from today: 
+
+## What is authentication?
+
+Authentication is the process of verifying the identity of a user or system. It ensures that a user is who they claim to be before granting access to resources or services. Authentication is a critical component of security in digital systems and is used to protect sensitive data, applications, and other resources.
+
+## What is authorization?
+
+Authorization is the process of determining what a user or system is allowed to do once their identity has been authenticated. It involves defining the rules and permissions that control access to specific resources or services. Authorization is used to ensure that users are only permitted to access the resources and services that they are entitled to.
+
+## When might you want to add authentication/authorization to your app? When might you not want to?
+
+You would want to add authentication and authorization to your app if you need to protect sensitive data or resources from unauthorized access. This is typically the case for applications that handle financial, healthcare, or personal data.
+
+You might not want to add authentication and authorization if your app is a simple static website that does not require users to log in or access any restricted resources.
+
+### Cookie-based authentication vs. JWTs
+
+### Pros of cookie-based authentication:
+
+- Easy to implement and use with browser-based web applications
+- Cookies can be used to store session data, making it easy to maintain user state across requests
+- Cookies can be set to expire, providing a level of security and control over user access
+
+### Cons of cookie-based authentication:
+
+- Cookies can be vulnerable to cross-site scripting (XSS) attacks
+- Cookies can be limited in their functionality and flexibility when it comes to sending data between the client and server
+- Cookies can only be used with HTTP, not other protocols such as WebSockets or REST APIs
+
+### Pros of JWT-based authentication:
+
+- JWTs can be used with any type of application, not just browser-based web applications
+- JWTs are less vulnerable to XSS attacks than cookies
+- JWTs can be used for authentication and authorization, providing greater flexibility and granular control over user access
+
+### Cons of JWT-based authentication:
+
+- JWTs can be more complex to implement and use than cookies
+- JWTs cannot be revoked once issued, meaning that compromised tokens can still potentially be used by an attacker
+
+### Steps involved in cookie-based authentication:
+
+1. User enters their login credentials on the client-side application.
+2. The server sends a response containing the session cookie to the client-side application.
+3. The client-side application stores the session cookie locally.
+4. The client-side application sends the session cookie with every subsequent request to the server.
+5. The server validates the session cookie and responds accordingly.
+
+### Steps involved in JWT-based authentication:
+
+1. User enters their login credentials on the client-side application.
+2. The server verifies the login credentials and generates a JWT.
+3. The server sends the JWT to the client-side application.
+4. The client-side application stores the JWT locally (usually in local storage or a cookie).
+5. The client-side application sends the JWT with every subsequent request to the server.
+6. The server verifies the JWT and responds accordingly.
+
 <!-- 
 ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
