@@ -531,6 +531,17 @@ You might not want to add authentication and authorization if your app is a simp
 5. The client-side application sends the JWT with every subsequent request to the server.
 6. The server verifies the JWT and responds accordingly.
 
+### Day 74-75: May 23-24th, 2023. 
+
+- Went over basics of Supabase authentication (Tuesday)
+- Typescript workshop (Wednesday)
+- Industry guest talk
+- Meeting with my mentor
+- Self-directed learning in the evening (focussing on React and CSS). 
+- Codewars & flashcards
+
+Link to work: [Auth workshop](auth_workshop)
+
 <!-- 
 ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
