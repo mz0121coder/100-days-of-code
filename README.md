@@ -542,6 +542,15 @@ You might not want to add authentication and authorization if your app is a simp
 
 Link to work: [Auth workshop](auth_workshop)
 
+### Day 76: May 26th, 2023. 
+
+**Today's Progress:** - Another great industry guest talk. followed by more practice of TypeScript fundamentals, this time using it with a React application. Codewars and self-directed learning in the everning. 
+
+**Thoughts:** - A productive day, it was good to get more familiar with TypeScript syntax and using it for debugging as well as preventing common code errors. 
+
+Link to work: [TypeScript with React](https://github.com/mz0121coder/typescript-with-react)
+
+
 <!-- 
 ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
