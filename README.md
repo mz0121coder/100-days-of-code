@@ -542,13 +542,21 @@ You might not want to add authentication and authorization if your app is a simp
 
 Link to work: [Auth workshop](auth_workshop)
 
-### Day 76: May 26th, 2023. 
+### Day 76: May 25th, 2023. 
 
 **Today's Progress:** - Another great industry guest talk. followed by more practice of TypeScript fundamentals, this time with a React application instead of vanilla JavaScript. Codewars and self-directed learning in the everning. 
 
 **Thoughts:** - A productive day, it was good to get more familiar with TypeScript syntax & using it for debugging as well as preventing common code errors. 
 
 Link to work: [TypeScript with React](https://github.com/mz0121coder/typescript-with-react)
+
+### Day 77: May 26th, 2023. 
+
+**Today's Progress:** - Used typescript with react in the friday hackathon. My group & I fetched data from the open weather API and used type assertions for checking various data in our program. 
+
+**Thoughts:** - Enjoyed the hackathon & will be using the weekend to relax and also review a few different topics. 
+
+Link to work: [TypeScript hackathon](https://github.com/mz0121coder/typescript-hackathon)
 
 
 <!-- 
