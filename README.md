@@ -550,11 +550,11 @@ Link to work: [Auth workshop](auth_workshop)
 
 Link to work: [TypeScript with React](https://github.com/mz0121coder/typescript-with-react)
 
-### Day 77: May 26th, 2023. 
+### Day 77-80: May 26-29th, 2023. 
 
 **Today's Progress:** - Used typescript with react in the friday hackathon. Completed the MVP and had time for styling. Worked well as a group and learned important typescript features and assertions.  
 
-**Thoughts:** - Enjoyed the hackathon & will be using the weekend to relax and also review the following:
+**Thoughts:** - Enjoyed the hackathon & will be using the extended weekend to relax and also review the following:
 - React
 - CSS
 - Codewars / Algo expert
