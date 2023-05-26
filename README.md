@@ -554,9 +554,11 @@ Link to work: [TypeScript with React](https://github.com/mz0121coder/typescript-
 
 **Today's Progress:** - Used typescript with react in the friday hackathon. Completed the MVP and had time for styling. Worked well as a group and learned important typescript features and assertions.  
 
-**Thoughts:** - Enjoyed the hackathon & will be using the extended weekend to relax and also review the following:
-- React
-- CSS
+**Thoughts:** - Enjoyed the hackathon & will be using the extended weekend to relax and review the following:
+
+- React project planning and component trees
+- CSS, especially responsive design
+- Flashcards 
 - Codewars / Algo expert
 - Authentication
 - UI libraries. 
