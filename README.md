@@ -552,9 +552,14 @@ Link to work: [TypeScript with React](https://github.com/mz0121coder/typescript-
 
 ### Day 77: May 26th, 2023. 
 
-**Today's Progress:** - Used typescript with react in the friday hackathon. My group & I fetched data from the open weather API and used type assertions for checking various data in our program. 
+**Today's Progress:** - Used typescript with react in the friday hackathon. Completed the MVP and had time for styling. Worked well as a group and learned important typescript features and assertions.  
 
-**Thoughts:** - Enjoyed the hackathon & will be using the weekend to relax and also review a few different topics. 
+**Thoughts:** - Enjoyed the hackathon & will be using the weekend to relax and also review the following:
+- React
+- CSS
+- Codewars / Algo expert
+- Authentication
+- UI libraries. 
 
 Link to work: [TypeScript hackathon](https://github.com/mz0121coder/typescript-hackathon)
 
