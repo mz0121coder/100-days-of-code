@@ -565,6 +565,20 @@ Link to work: [TypeScript with React](https://github.com/mz0121coder/typescript-
 
 Link to work: [TypeScript hackathon](https://github.com/mz0121coder/typescript-hackathon)
 
+### Day 80 - 100+: 
+
+Using this time to plan, build and develop a full stack application in a team of 6. 
+
+Here are some of the things we are doing:
+
+## Week 1 
+
+- Create a team manifesto ✅
+- Decide and understand what problem we are solving, and why it is important ✅
+- Conduct user research and identify common pain points, develop user personas with key features & goals ✅
+- Use Disney ideation to identify, critique and realistically prioritise app features ✅
+- Develop the MVP, low and high fidelity wireframes for our application (in progress)
+
 
 <!-- 
 ### Day 0: February 30, 2016 (Example 1)
