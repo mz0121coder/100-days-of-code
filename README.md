@@ -571,13 +571,14 @@ Using this time to plan, build and develop a full stack application in a team of
 
 Here are some of the things we are doing:
 
-## Week 1 
+## Week 1 - research & planning
 
 - Create a team manifesto ✅
 - Decide and understand what problem we are solving, and why it is important ✅
 - Conduct user research and identify common pain points, develop user personas with key features & goals ✅
-- Use Disney ideation to identify, critique and realistically prioritise app features ✅
-- Develop the MVP, low and high fidelity wireframes for our application (in progress)
+- Use Disney ideation to prioritise app features ✅
+- Develop the MVP, low and high fidelity wireframes for our application ✅
+- Decide on a mobile-first layout with a primary colour scheme and focus on accessibility ✅
 
 
 <!-- 
